@@ -3,7 +3,9 @@
 📊 𝗪𝗮𝘃𝗲𝗰𝗼𝗻 𝗧𝗲𝗹𝗲𝗰𝗼𝗺 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 🚀 Live Dashboard :👉 [Click here to view the dashboard](https://app.powerbi.com/view?r=eyJrIjoiMThmMjZjMjItY2U4Ny00MjA2LThkNDktODY3NzI3YjJjYWFhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
-📊 𝗪𝗮𝘃𝗲𝗰𝗼𝗻 𝗧𝗲𝗹𝗲𝗰𝗼𝗺 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 🚀 Video Presentation:- https://www.linkedin.com/posts/shivu3_codebasicsvirtualinternship-powerbi-dataanalytics-activity-7330145664414240768-fk9e?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB_f88kB90TMmpfATMiVfc8V2yUnY5uc_Tg
+📊 𝗪𝗮𝘃𝗲𝗰𝗼𝗻 𝗧𝗲𝗹𝗲𝗰𝗼𝗺 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 🚀 Video Presentation:[🎥 Live Video Presentation](https://www.linkedin.com/posts/shivu3_codebasicsvirtualinternship-powerbi-dataanalytics-activity-7330145664414240768-fk9e/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB_f88kB90TMmpfATMiVfc8V2yUnY5uc_Tg)
+
+
 
 The rollout of 5G was expected to be a milestone, but how did it actually impact revenue and customer behavior? My latest analysis uncovers some surprising trends:
 
